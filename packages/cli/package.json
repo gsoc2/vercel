@@ -31,7 +31,7 @@
     "node": ">= 16"
   },
   "dependencies": {
-    "@vercel/build-utils": "7.2.5",
+    "@vercel/build-utils": "7.4.1",
     "@vercel/fun": "1.1.0",
     "@vercel/go": "3.0.3",
     "@vercel/hydrogen": "1.0.1",
